@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="ISO-8859-1" standalone="yes"?>
+<beacon_tracking version="0.1">
+	<parameter>
+		<soni>1</soni>
+	</parameter>
+</beacon_tracking>
